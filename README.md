@@ -29,7 +29,7 @@ Draw insights and make decisions: Based on the analysis, identify trends, patter
 
 Cohort analysis can provide valuable insights into customer behavior, customer lifecycle, user retention, and the effectiveness of marketing campaigns over time. It helps businesses understand how different groups of customers or users evolve and perform, enabling more targeted and data-driven decision-making.
 ## Recency, Frequency, and Monetary Value
-![IMAGE_DESCRIPTION](https://www.magestore.com/wp-content/uploads/2022/10/retail-management-strategy.jpg)
+![IMAGE_DESCRIPTION](https://d35fo82fjcw0y8.cloudfront.net/2018/03/01013508/Incontent_image.png)
 RFM customer segmentation is a method used by businesses to categorize their customers based on their purchasing behavior and tenure with the company. It stands for Recency, Frequency, and Monetary Value with each component representing a different aspect of customer behavior. Let's break down each element:
 
 1. Recency: Recency refers to the time since a customer's last purchase or interaction with the company. It helps determine how recently a customer has engaged with the business. Generally, customers who have made a purchase more recently are considered more valuable because they are more likely to make additional purchases in the future.
